@@ -4,6 +4,9 @@
      
 #### Status:
      👩🏻‍💡 em andamento
+     
+#### Reprodução:
+
 #### Tecnologias utilizadas:
       
 #### Implementações futuras:
